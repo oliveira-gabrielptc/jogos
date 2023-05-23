@@ -6,6 +6,8 @@ h1{
  border-width: 10px; 
 border-style: solid;
 border-color: #EA6951;
+background-color: #EA6951;
+border-radius:20px;
 }
 h2{
     color: #3CFA65;
