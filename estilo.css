@@ -1,0 +1,19 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+h1{
+ color: #3CFA65;
+ font-family: 'Jost', sans-serif;
+}
+h2{
+    color: #3CFA65;
+    font-family: 'Jost', sans-serif;
+}
+p{ 
+color: #773FD9;
+font-family: 'Jost', sans-serif;
+}
+body{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
